@@ -13,6 +13,6 @@ Usage of ./webls:
     repository to expose (default ".")
 ```
 
-2 endpoints:
+2 HTTP endpoints:
 - `files/` recursively list all files under given folder (`-repo` flag) and of given extension (`-ext` flag)
 - `folders/` recursively list all folders under given folder (`-repo` flag)
